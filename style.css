@@ -1,0 +1,19 @@
+body {
+    background-color: #fff;
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#container {
+    width: 800px;
+}
+
+p {
+    margin-top: 0;
+    color: rgb(145, 145, 145);
+    font-family: monospace;
+    font-weight: bold;
+}
